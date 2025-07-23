@@ -63,5 +63,6 @@ This project is a step toward next-generation life-saving wearables—combining 
 
 <img width="414" height="338" alt="Screenshot 2025-07-22 at 6 58 49 PM" src="https://github.com/user-attachments/assets/193b8e1c-7dde-43a5-bf62-8899e6991f6a" />
 
+---
 
-
+*Feel free to customize the content, add images, wiring schematics, or setup instructions as needed for your project repository!*
